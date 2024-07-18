@@ -10,10 +10,9 @@ The Application collects information when you download and use it. This informat
 *   The operating system you use on your mobile device
 
 
-The Application collects your device's location, which helps the Service Provider determine your approximate and precise geographical location and make use of in below ways:
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
 *   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
